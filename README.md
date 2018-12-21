@@ -1,5 +1,7 @@
 # Unofficial [MyGate](https://mygate.co.za/ "My Gate Payments") Solution for [Oracle Commerce Cloud](https://cloud.oracle.com/en_US/commerce-cloud "Oracle Commerce Cloud")
 
+## *Please contact me if you would like a demonstration or are a client using the solution. 
+
 ##### OCC version 16+
 
 [MyGate's](https://mygate.co.za/ "My Gate Payments") online card payments.
